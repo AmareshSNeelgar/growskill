@@ -1,0 +1,5 @@
+package com.platform.growskill.enums;
+
+public enum EnrollStatus {
+    PAYMENT_INITIATED,PAYMENT_FAILED, PAYMENT_PENDING, ENROLLED,CERTIFIED_SUCCESS,CERTIFIED_FAILED
+}
